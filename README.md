@@ -9,7 +9,8 @@
     <a href=https://ko-fi.com/H2H1D9P6R><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
   </p>
 </div>
-
+# EOL NOTICE
+- it wasnt even complete but yes its dead. cloudteam as a whole has gone inactive. anyone who eanna 
 ## Table of Content 
 - [Installation](#installation)
 - [Getting started with DiscordJS](#getting-started-with-discordjs)
